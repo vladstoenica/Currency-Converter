@@ -11,4 +11,4 @@ DOWNLOAD: https://github.com/vladstoenica/Currency-Converter/releases
 
 ## Screenshots
 
-<img src="/previews/ss1.png" width="180px"> 
+<img src="/previews/ss1.jpg" width="180px"> 
